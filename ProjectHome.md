@@ -1,0 +1,1 @@
+API para autenticação e autorização por reconhecimento facial em aplicações WEB
